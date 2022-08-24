@@ -1,4 +1,4 @@
-# MERN CRUD 
+# MERN CRUD - Student List
 
 React MERN Stack CRUD app tutorial - Create frontend and backend with React, Node, Express, mongoDB. and learn to consume REST APIs with React Axios.
 
